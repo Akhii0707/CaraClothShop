@@ -1,4 +1,4 @@
-**Cara Cloth Shop Website**
+# Cara Cloth Shop Website
 
  Created an e-commerce website using HTML, CSS, JavaScript, and MySQL, allowing customers to browse clothing categories,
  view product details, select sizes/colors, and manage their shopping cart.
